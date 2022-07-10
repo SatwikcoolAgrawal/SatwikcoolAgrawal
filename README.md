@@ -3,27 +3,26 @@
 - I Am Well - versed in -
 
 > Prgramming languages : 
--       .C/C++ (Data Structures ,Algorithm and Object Oriented Programming
--       .Python
--       .Java (basics)
+-       C/C++ (Data Structures ,Algorithm and Object Oriented Programming
+-       Python
+-       Java (basics)
 
 > Front End Development :
--		.HTML
--		.CSS
--		.JavaScript
+-		HTML
+-		CSS
+-		JavaScript
 
 > UI/UX Desigining :
--		.Adobe xd
--		.Photoshop
+-		Adobe xd
 
 - 🌱 I’m currently learning ...
-- 	->BootStrap
-- 	->NodeJs
+- 	BootStrap
+- 	NodeJs
 - 	
 - 📫 How to reach me ...
 -   Website:https://satwikcoolagrawal.github.io/Satwik-portfolio/
 - 	Email- satwikagrawal2002@gmail.com
-- 	contact No.- 8770398984
+- 	Contact No.- 8770398984
 
 <!---
 SatwikcoolAgrawal/SatwikcoolAgrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
