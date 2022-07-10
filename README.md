@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning ...
 - 	BootStrap
 - 	NodeJs
-- 	
+	
 - 📫 How to reach me ...
 -   Website:https://satwikcoolagrawal.github.io/Satwik-portfolio/
 - 	Email- satwikagrawal2002@gmail.com
