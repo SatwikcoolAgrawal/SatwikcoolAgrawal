@@ -18,9 +18,7 @@
 > UI/UX Desigining :
 -		Adobe xd
 
-- 🌱 I’m currently learning ...
-- 	BootStrap
-- 	NodeJs
+
 	
 > 📫 How to reach me ...
 - Website:https://satwikcoolagrawal.github.io/Satwik-portfolio/
