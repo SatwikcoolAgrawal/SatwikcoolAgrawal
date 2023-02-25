@@ -3,7 +3,7 @@
 - I Am Well - versed in -
 
 > Prgramming languages : 
--       C/C++ (Data Structures ,Algorithm and Object Oriented Programming
+-       C/C++ (Data Structures ,Algorithm and Object Oriented Programming ) 
 -       Python
 -       Java (basics)
 
@@ -11,6 +11,9 @@
 -		HTML
 -		CSS
 -		JavaScript
+
+> Bacnk End Development :
+-		Django Framework
 
 > UI/UX Desigining :
 -		Adobe xd
