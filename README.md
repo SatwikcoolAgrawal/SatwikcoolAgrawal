@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 I am a Software Development Engineer specializing in building scalable backend systems, distributed microservices, and high-performance APIs. 
 
-* 💼 Currently architecting fintech solutions as an **SDE 1** at **XFlow Payments**.
+* 💼 Currently architecting fintech solutions as an **SDE** at **XFlow Payments**.
 * 🏢 Previously built and scaled lending platforms and internal automation tools at **Money View** and **Optum**.
 * 🎓 B.Tech in Information Technology from the **National Institute of Technology, Raipur**.
 * ⚔️ Active competitive programmer with a strong foundation in Data Structures, Algorithms, and optimization.
