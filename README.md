@@ -9,7 +9,7 @@
   <a href="https://satwikcoolagrawal.github.io/Satwik-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:satwikagrawal2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=satwikcoolagrawal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SatwikcoolAgrawal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
@@ -51,7 +51,7 @@ I am a Software Development Engineer specializing in building scalable backend s
 ### 📈 GitHub Activity Graph
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satwikcoolagrawal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6" alt="GitHub Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatwikcoolAgrawal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6" alt="GitHub Activity Graph" width="100%" />
   </a>
 </div>
 
@@ -60,23 +60,11 @@ I am a Software Development Engineer specializing in building scalable backend s
 ### 📊 Dynamic GitHub Analytics & Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satwikcoolagrawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/SatwikcoolAgrawal">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SatwikcoolAgrawal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satwikcoolagrawal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satwikcoolagrawal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satwikcoolagrawal&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
----
 
 ### 🏆 LeetCode Stats
 <div align="center">
